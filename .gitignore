@@ -1,0 +1,5 @@
+# GoLand configs
+/.idea/
+
+# Compiled executables
+github-activity*
